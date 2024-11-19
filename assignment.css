@@ -1,0 +1,32 @@
+body {
+    background-image: url("class.jpeg");
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+    background-color: rgb(183, 247, 87);
+}
+
+.container {
+    background-color: yellow;
+    max-width: 60%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+    background-image: -moz-linear-gradient();
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background-color: aquamarine;
+    border: 3px solid black;
+    border-radius: 10px;
+}
